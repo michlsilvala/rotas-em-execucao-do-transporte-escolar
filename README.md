@@ -32,3 +32,18 @@ GitHub Pages (opcional para hospedagem)
 │
 ├── index.html           # Página principal
 └── README.md
+
+✍️ Autor
+
+Desenvolvido por: Michel Félix
+
+🔗 LinkedIn
+
+📅 Ano: 2025
+🏛️ Secretaria Municipal de Educação
+
+📜 Licença
+Este projeto é de uso público e institucional, com fins de transparência administrativa.
+É proibido o uso para fins comerciais ou modificações que descaracterizem o conteúdo oficial.
+
+
